@@ -10,8 +10,13 @@ body{
 }
 
 h1 {
-    margin: 0;
+    margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
+    font-size: 5.9rem;
+}
+
+h2 {
+    font-size: 2.1rem;
 }
 
 .bottom-cloud {
