@@ -6,10 +6,12 @@
 body{
     margin: 0;
     text-align: center;
+    font-family: sans-serif;
 }
 
 h1 {
     margin: 0;
+    font-family: 'Sacramento', cursive;
 }
 
 .bottom-cloud {
@@ -21,21 +23,3 @@ h1 {
     left: 200px;
 }
 
-.middle-container {
-    background-color: brown;
-    height: 100px;
-    width: 100px;
-}
-
-
-.bottom-container {
-    background-color: greenyellow;
-    height: 100px;
-    width: 100px;
-}
-
-.last-container {
-    background-color: orange;
-    height: 100px;
-    width: 100px;
-}
