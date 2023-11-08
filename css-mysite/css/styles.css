@@ -1,0 +1,41 @@
+.top-container {
+    background-color: #E0F4FF;
+    padding-top: 100px;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: relative;
+    left: 200px;
+}
+
+.middle-container {
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+}
+
+
+.bottom-container {
+    background-color: greenyellow;
+    height: 100px;
+    width: 100px;
+}
+
+.last-container {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+}
